@@ -1,0 +1,6 @@
+{
+  "name": "Simpink Net Provider WiFi",
+  "description": "Portal pembayaran tagihan internet, pendaftaran paket WiFi, dan layanan pelanggan Simpink Net Provider WiFi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
